@@ -1,6 +1,7 @@
 // typescript 相比 javascript的特点在于类型。
 // 类型不仅能够帮助我们生成代码提示，更重要的是提升每个模块的规范性，以及团队协作能力
-// 完成以下类型纠正题目，并在解决后发布issue到仓库，以提交作业。
+// 完成以下类型纠正题目，并在解决后在仓库的Discussion中发布，以提交作业。
+// https://github.com/floatDreamWithSong/Study-group-Typescript-Test/discussions
 // 完成标准：main.ts不会发生error（红色警告）
 // 完成作业前需要学习typescript的基本类型、基本类型工具以及泛型思想
 
